@@ -17,9 +17,9 @@ Create a `~/.ghstackrc` as shown below:
 λ cat ~/.ghstackrc
 [ghstack]
 github_url = github.com
-github_oauth = [your_own_token]
-github_username = [your_username]
-remote_name = upstream [if remote is called upstream and not origin]
+github_oauth = <your_own_token>
+github_username = <your_username>
+remote_name = upstream <if remote is called upstream and not origin>
 ```
 
 ## How to use
